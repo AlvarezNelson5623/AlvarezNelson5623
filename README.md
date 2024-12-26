@@ -1,9 +1,10 @@
-<h1 align="center">Hola 👋, me llamo Nelson Alvarez</h1>
-<h3 align="center">Soy un apacionado estudiante de Ingeniería en Sistemas</h3>
+<h1 align="center">Hi 👋, my name is Nelson Alvarez</h1>
+<h3 align="center">I am a Systems Engineering Student</h3>
 
-- 💬 Pregúntame acerca de **HTML, JavaScript, Python, Pygame, SQL**
-
-- 📫 Como me puedes contactar **nelsonalvarez5623@gmail.com**
+- 🔭 I’m currently working Kodland as a Python - Pygame tutor.
+- 🌱 I am currently learning Google Cybersecurity Professional Certification.
+- 💬 Ask me about **HTML, JavaScript, Python, Pygame, SQL**
+- 📫 How to reach me: **nelsonalvarez5623@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,12 +21,4 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
