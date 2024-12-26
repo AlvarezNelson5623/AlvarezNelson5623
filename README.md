@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, my name is Nelson Alvarez</h1>
 <h3 align="center">I am a Systems Engineering Student</h3>
 
-- 🔭 I’m currently working Kodland as a Python - Pygame tutor.
+- 🔭 I am currently working at Kodland as a Python - Pygame tutor.
 - 🌱 I am currently learning Google Cybersecurity Professional Certification.
 - 💬 Ask me about **HTML, JavaScript, Python, Pygame, SQL**
 - 📫 How to reach me: **nelsonalvarez5623@gmail.com**
