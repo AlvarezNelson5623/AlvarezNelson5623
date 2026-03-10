@@ -3,7 +3,6 @@
 
 - 🔭 I am currently working at Kodland as a Python - Pygame tutor.
 - 🌱 I am currently learning Google Cybersecurity Professional Certification.
-- 💬 Ask me about **HTML, JavaScript, Python, Pygame, SQL**
 - 📫 How to reach me: **nelsonalvarez5623@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
